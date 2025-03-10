@@ -48,8 +48,7 @@ const homepage = () => {
   <input style={{ width:"700px",height:"60px",textAlign:"inherit",fontFamily:"cursive~"}} type="text"  placeholder="        Search or type a URL..."/>
   <Link><i className="fa fa-microphone" style={{
                   position: 'absolute',
-                  left: '23.5%', // Positioned inside the input box on the right side
-                  transform: 'translateY(+85%)', // Vertically center the icon
+                  left: '23.5%', 
                   fontSize: '22px',
                   color: 'gray',
                 }}></i></Link>
